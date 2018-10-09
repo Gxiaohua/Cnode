@@ -1,0 +1,45 @@
+
+.layout{
+    border: 1px solid #d7dde4;
+    background: #f5f7f9;
+    position: relative;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.layout-logo{
+    width: 100px;
+    height: 30px;
+    background: #5b6270;
+    border-radius: 3px;
+    float: left;
+    position: relative;
+    top: 15px;
+    left: 20px;
+}
+.layout-nav{
+    width: 420px;
+    margin: 0 auto;
+    margin-right: 20px;
+}
+.layout-footer-center{
+    text-align: center;
+}
+.list-title{
+    text-align: center;
+    font-family: "微软雅黑";
+    font-size:24px;
+    font-weight: bold;
+    color: black;
+}
+.filname{
+    font-family: "微软雅黑";
+    font-size: 22px;
+    /* display: inline-block; */
+    color: black;
+    margin: 0 10px;
+}
+img{
+    border: none;
+    vertical-align: middle;
+    margin: 8px 10px;
+}
